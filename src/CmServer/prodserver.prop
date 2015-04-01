@@ -1,7 +1,0 @@
-dbConn=31.222.191.71:8001
-dbName=DundonaldAgencies
-dbUser=root
-dbPass=radiat0r
-logPath=
-subscriptionPort=3333
-rmiPort=1099
