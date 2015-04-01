@@ -1,0 +1,4 @@
+cd lib
+put cmcommon.jar
+put cmclient.jar
+put cmserver.jar

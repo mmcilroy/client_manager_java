@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CmCommon"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/slf4j-api-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/slf4j-log4j12-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/netty-3.5.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

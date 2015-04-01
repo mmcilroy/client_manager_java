@@ -1,0 +1,7 @@
+dbConn=31.222.191.71:8001
+dbName=Development
+dbUser=root
+dbPass=radiat0r
+logPath=
+subscriptionPort=3332
+rmiPort=1098

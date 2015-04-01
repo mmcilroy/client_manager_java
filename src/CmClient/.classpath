@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CmCommon"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Lib/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/netty-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Lib/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
